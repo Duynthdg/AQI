@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/hungnguyen95/AQI.git"
+    "url": "git+https://github.com/Duynthdg/AQI"
   },
-  "author": "Hung Nguyen",
+  "author": "Duy Nguyen",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/hungnguyen95/AQI/issues"
+    "url": "https://github.com/Duynthdg/AQI/issues"
   },
-  "homepage": "https://gitlab.com/hungnguyen95/AQI#README",
+  "homepage": "https://github.com/Duynthdg/AQI/blob/master/README.md",
   "dependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
