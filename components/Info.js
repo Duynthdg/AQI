@@ -84,7 +84,7 @@ class Info extends React.Component {
       <div className="container">
         <Jumbotron style={{backgroundColor:color}} >
           <h1 style={{fontSize:26}}>{text}</h1>
-          <p style={{textAlign: 'justify'}}>An individual score (IAQI) is assigned to the level of each pollutant and the final AQI is the highest of those 6 scores. The pollutants can be measured quite differently. PM2.5、PM10 concentration are measured as average per 24h. SO2, NO2, O3, CO are measured as average per hour. The final API value is calculated per hour according to a formula published by the MEP. AQI is devided into 5 types:</p>
+          <p style={{textAlign: 'justify'}}>Chỉ số chất lượng không khí (AQI-Air Quality Index) là chỉ số được tính toán từ các thông số quan trắc các chất ô nhiễm trong không khí gồm: CO, NO2, SO2, O3, bụi. AQI cho biết tình trạng chất lượng không khí và mức độ ảnh hưởng đến sức khỏe con người. Có 5 khoảng giá trị AQI biểu thị trạng thái như sau:</p>
           <ButtonToolbar>
             <InfoButton onMouseEnter={this.buttonTotEnter} type={"tot"} />
             <InfoButton onMouseEnter={this.buttonTrungBinhEnter} type={"trungbinh"} />

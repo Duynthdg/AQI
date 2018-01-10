@@ -45043,7 +45043,7 @@ var Info = function (_React$Component) {
           _react2.default.createElement(
             'p',
             { style: { textAlign: 'justify' } },
-            'An individual score (IAQI) is assigned to the level of each pollutant and the final AQI is the highest of those 6 scores. The pollutants can be measured quite differently. PM2.5\u3001PM10 concentration are measured as average per 24h. SO2, NO2, O3, CO are measured as average per hour. The final API value is calculated per hour according to a formula published by the MEP. AQI is devided into 5 types:'
+            'Ch\u1EC9 s\u1ED1 ch\u1EA5t l\u01B0\u1EE3ng kh\xF4ng kh\xED (AQI-Air Quality Index) l\xE0 ch\u1EC9 s\u1ED1 \u0111\u01B0\u1EE3c t\xEDnh to\xE1n t\u1EEB c\xE1c th\xF4ng s\u1ED1 quan tr\u1EAFc c\xE1c ch\u1EA5t \xF4 nhi\u1EC5m trong kh\xF4ng kh\xED g\u1ED3m: CO, NO2, SO2, O3, b\u1EE5i. AQI cho bi\u1EBFt t\xECnh tr\u1EA1ng ch\u1EA5t l\u01B0\u1EE3ng kh\xF4ng kh\xED v\xE0 m\u1EE9c \u0111\u1ED9 \u1EA3nh h\u01B0\u1EDFng \u0111\u1EBFn s\u1EE9c kh\u1ECFe con ng\u01B0\u1EDDi. C\xF3 5 kho\u1EA3ng gi\xE1 tr\u1ECB AQI bi\u1EC3u th\u1ECB tr\u1EA1ng th\xE1i nh\u01B0 sau:'
           ),
           _react2.default.createElement(
             _reactBootstrap.ButtonToolbar,
